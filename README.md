@@ -24,4 +24,4 @@ A curated list of the best bioinformatics books, all in one place. This list is 
 * Learning Python (5th edition) [Buy on Amazon] (http://www.amazon.com/Learning-Python-5th-Mark-Lutz/dp/1449355730/ref=sr_1_1?s=books&ie=UTF8&qid=1439053615&sr=1-1&keywords=learning+python)
 
 # Contributing
-Feel free to contribute any and all of your favorite bioinformatics books. Just add it to the README.
+Feel free to contribute any and all of your favorite bioinformatics books. Just add to the README.
