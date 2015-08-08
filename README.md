@@ -1,5 +1,5 @@
 # Awesome-Bioinformatics-Books
-A curated list of the best bioinformatics books, all in one place
+A curated list of the best bioinformatics books, all in one place. This list is a reference to all of us wanting to pick up a good book and learn more about bioinformatics.
 
 ![alt tag](http://4.bp.blogspot.com/-A8SyPdDXK4I/U4EoUyr2OVI/AAAAAAAAAao/3QNLQYO5pH8/s1600/Phage_host_phyla_tree.png)
 
@@ -22,3 +22,6 @@ A curated list of the best bioinformatics books, all in one place
 ##### Related Programming Skills
 * Learning Perl (6th edition) [Buy on Amazon](http://www.amazon.com/Learning-Perl-Randal-L-Schwartz/dp/1449303587/ref=sr_1_1?s=books&ie=UTF8&qid=1439053782&sr=1-1&keywords=learning+perl)
 * Learning Python (5th edition) [Buy on Amazon] (http://www.amazon.com/Learning-Python-5th-Mark-Lutz/dp/1449355730/ref=sr_1_1?s=books&ie=UTF8&qid=1439053615&sr=1-1&keywords=learning+python)
+
+# Contributing
+Feel free to contribute any and all of your favorite bioinformatics books. Just add it to the README.
