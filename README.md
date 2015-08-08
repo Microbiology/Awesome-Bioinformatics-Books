@@ -1,6 +1,8 @@
 # Awesome-Bioinformatics-Books
 A curated list of the best bioinformatics books, all in one place
 
+![alt tag](http://4.bp.blogspot.com/-A8SyPdDXK4I/U4EoUyr2OVI/AAAAAAAAAao/3QNLQYO5pH8/s1600/Phage_host_phyla_tree.png)
+
 # Awesome Books Online for Free
 ##### Cookbooks
 * Cookbook for R [Check it out](http://www.cookbook-r.com/)
