@@ -1,5 +1,5 @@
 # Awesome-Bioinformatics-Books
-A curated list of the best bioinformatics books, all in one place. This list is a reference to all of us wanting to pick up a good book and learn more about bioinformatics.
+A curated list of the best bioinformatics books, all in one place. This list is a reference for all of us wanting to pick up a great book and learn more about bioinformatics.
 
 ![alt tag](http://4.bp.blogspot.com/-A8SyPdDXK4I/U4EoUyr2OVI/AAAAAAAAAao/3QNLQYO5pH8/s1600/Phage_host_phyla_tree.png)
 
