@@ -8,7 +8,7 @@ A curated list of the best bioinformatics books, all in one place. This list is 
 * Cookbook for R [Check it out](http://www.cookbook-r.com/)
 
 ##### Bioinformatics
-* Bioinformatics: Data, Sequence Analysis, and Evolution
+* Bioinformatics: Data, Sequence Analysis, and Evolution [Check it out](http://download.springer.com/static/pdf/520/bok%253A978-1-60327-159-2.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Fbook%2F10.1007%2F978-1-60327-159-2&token2=exp=1444244423~acl=%2Fstatic%2Fpdf%2F520%2Fbok%25253A978-1-60327-159-2.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Fbook%252F10.1007%252F978-1-60327-159-2*~hmac=f056cd20af704a422fdced0308e5c5f3f80b4998087a02481cb9160706bcf3b8)
 
 ##### Related Programming Skills
 * Beginning Perl [Check it out](https://www.perl.org/books/beginning-perl/)
